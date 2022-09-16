@@ -1,0 +1,2 @@
+### CO2 emissions
+POST http://localhost:3000/carbon_emissions.json
